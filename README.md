@@ -4,7 +4,7 @@
   <img  src="https://github.com/SaroshiPL/Tetris_PyGame-Edition/blob/main/resources/icon.png" width="200" title="Tetris Game LOGO">
    <img src="https://avatars.githubusercontent.com/SaroshiPL" width="200" title="Tetris Game LOGO">
 </p>
-  <h2 align="center">Tetris PyGameEdition Made By SaroshiPL</h2>
+  <h2 align="center">Tetris PyGame Edition Made By SaroshiPL</h2>
 <img src="https://github.com/SaroshiPL/Tetris_PyGame-Edition/blob/main/screenshot/gamescreen.png" alt="Game screenshot">
 
 <h2>Controls</h2>
